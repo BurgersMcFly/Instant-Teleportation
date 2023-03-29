@@ -10,34 +10,30 @@ Works on both the test branch and the default branch of the game.
 
 https://www.nexusmods.com/valheim/mods/2046
 
-## Features
-
-# InstantTeleportation
+## InstantTeleportation
 
 No loading screens and cooldowns when teleporting for every teleportation type.
 
-
-# InstantTeleportationVanillaCooldowns
+## InstantTeleportationVanillaCooldowns
 
 No loading screens for every teleportation type but cooldowns are left vanilla.
 
-
-# InstantTeleportationLite
+## InstantTeleportationLite
 
 No loading screens and cooldowns but only affects entering/exiting caves/dungeons etc. Portal teleporting is left vanilla.
 
 
-# Dungeon Teleportation:
+## Dungeon Teleportation:
 
 ![](https://i.imgur.com/Occo0w0.gif)
 
 
-# Portal Teleportation:
+## Portal Teleportation:
 
 ![](https://i.imgur.com/Uw38KS9.gif)
 
 
-# Distant Portal Teleportation:
+## Distant Portal Teleportation:
 
 ![](https://i.imgur.com/a8nBK8B.gif)
 
@@ -47,7 +43,7 @@ No loading screens and cooldowns but only affects entering/exiting caves/dungeon
 Download and install BepInExPack Valheim.
 Download the mod and drop its .dll file in \BepInEx\plugins.
 
-# Notes:
+## Notes:
 
 Use only one variant at a time.
 
