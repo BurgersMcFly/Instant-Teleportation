@@ -30,7 +30,7 @@ No loading screens and cooldowns but only affects entering/exiting caves/dungeon
 
 ## Portal Teleportation:
 
-![](https://i.imgur.com/Uw38KS9.gif)
+![](https://i.imgur.com/Uw38KS9.mp4)
 
 
 ## Distant Portal Teleportation:
