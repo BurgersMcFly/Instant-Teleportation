@@ -53,3 +53,8 @@ Credits to [ElTheLedge](https://www.nexusmods.com/valheim/users/110405878) for d
 Credits to [GemHunter1](https://www.nexusmods.com/valheim/users/17885864) for their mod [Fast Teleport](https://www.nexusmods.com/valheim/mods/1774).
 
 I've made this mod because Faster Teleportation isn't working anymore and Fast Teleport doesn't disable the loading screens and cooldowns.
+
+## License
+
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
