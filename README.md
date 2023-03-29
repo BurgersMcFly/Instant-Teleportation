@@ -1,4 +1,4 @@
-# Instant-Teleportation
+# Instant Teleportation
 
 Teleport without having to sit through a loading screen and wait for cooldowns. Offers a version that affects every teleportation type, a version that affects only dungeon teleporting and a version that has vanilla cooldowns.
 
