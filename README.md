@@ -49,7 +49,7 @@ No loading screens and cooldowns but only affects entering/exiting caves/dungeon
 
 Use only one variant at a time.
 
-Credits to ElTheLedge for doing it first with their Faster Teleportation (DISCONTINUED) mod.
-Credits to GemHunter1 for their mod Fast Teleport.
+Credits to [ElTheLedge](https://www.nexusmods.com/valheim/users/110405878) for doing it first with their [Faster Teleportation (DISCONTINUED)](https://www.nexusmods.com/valheim/mods/59?tab=description) mod.
+Credits to [GemHunter1](https://www.nexusmods.com/valheim/users/17885864) for their mod [Fast Teleport](https://www.nexusmods.com/valheim/mods/1774).
 
 I've made this mod because Faster Teleportation isn't working anymore and Fast Teleport doesn't disable the loading screens and cooldowns.
