@@ -28,7 +28,7 @@ No loading screens and cooldowns but only affects entering/exiting caves/dungeon
 
 ## Dungeon Teleportation
 
-<img src="https://i.imgur.com/Occo0w0.gif" width="87%" height="87%"/>
+<img src="https://i.imgur.com/Occo0w0.gif" width="80%" height="80%"/>
 
 ## Portal Teleportation
 
