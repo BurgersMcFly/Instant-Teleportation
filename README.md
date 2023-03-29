@@ -24,11 +24,11 @@ No loading screens for every teleportation type but cooldowns are left vanilla.
 
 No loading screens and cooldowns but only affects entering/exiting caves/dungeons etc. Portal teleporting is left vanilla.
 
+# Showcase
 
 ## Dungeon Teleportation
 
-![](https://i.imgur.com/Occo0w0.gif)
-
+<img src="https://i.imgur.com/Occo0w0.gif" width="87%" height="87%"/>
 
 ## Portal Teleportation
 
